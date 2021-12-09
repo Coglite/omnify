@@ -1,0 +1,24 @@
+
+0: 'Tomahawk_IDLE',
+1: 'Tomahawk_WALK',
+2: 'Tomahawk_RUN',
+3: 'Tomahawk_ATK1(no hit)',
+4: 'Tomahawk_ATK2(no hit)',
+5: 'Tomahawk_ATK1+ATK2(no hit)',
+6: 'Tomahawk_ATK1(hit)',
+7: 'Tomahawk_ATK2(hit)',
+8: 'Tomahawk_ATK1+ATK2(hit)',
+9: 'Tomahawk_JUMP',
+10: 'Tomahawk_JUMP_START',
+11: 'Tomahawk_JUMP_FALL',
+12: 'Tomahawk_JUMP_END',
+
+
+1 2 3
+3: 'Tomahawk_ATK1(no hit)',
+4: 'Tomahawk_ATK2(no hit)',
+5: 'Tomahawk_ATK1+ATK2(no hit)',
+
+6: 'Tomahawk_ATK1(hit)',
+7: 'Tomahawk_ATK2(hit)',
+8: 'Tomahawk_ATK1+ATK2(hit)',
